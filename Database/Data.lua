@@ -227,7 +227,7 @@ local instanceDatabase = {
     ["mage_portal_vale_of_eternal_blossoms"] = {alliance = 132620, horde = 132626, nameKey = "MAGE_PORTAL_VALE_OF_ETERNAL_BLOSSOMS"},
 
     ["mage_portal_stormshield"] = {alliance = 176246, nameKey = "MAGE_PORTAL_STORMSHIELD"},
-    ["mage_portal_warspear"] = {horde = 176244, nameKey = "MAGE_PORTAL_WARSPAR"},
+    ["mage_portal_warspear"] = {horde = 176244, nameKey = "MAGE_PORTAL_WARSPEAR"},
 
     ["mage_portal_dalaran_broken_isles"] = {spellID = 224871, nameKey = "MAGE_PORTAL_DALARAN_BROKEN_ISLES"},
 
